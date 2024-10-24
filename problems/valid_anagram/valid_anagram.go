@@ -1,5 +1,11 @@
 package valid_anagram
 
+/*
+ValidAnagram
+
+Given two strings s and t, return true if t is an
+anagram of s, and false otherwise.
+*/
 func ValidAnagram(s string, t string) bool {
 	if len(s) != len(t) {
 		return false
