@@ -1,4 +1,4 @@
-package helpers
+package my_helpers
 
 import "sort"
 
